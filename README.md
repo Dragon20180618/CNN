@@ -13,3 +13,9 @@
 ![](https://pic4.zhimg.com/80/v2-be6a9d03dc10a13f208195d3c83d509b_720w.jpg)
 如果我们以x,y 为坐标轴中心点，来重新表达这个算子，就可以是：
 ![](https://picb.zhimg.com/80/v2-121b2aa6333fb0369459535cbb5d5b69_720w.jpg)
+
+深度学习分类
+监督学习，有明确的答案，sign
+非监督学习，数据集分类。
+
+工具：Octave Matlab
